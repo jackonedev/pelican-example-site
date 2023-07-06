@@ -8,4 +8,4 @@ pip install "pelican[markdown]"
 
 configuramos url: https://catalogo.com
 
-3)
+3) Creamos contenido en content/pages
